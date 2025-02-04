@@ -43,7 +43,10 @@ pip install pandas numpy yfinance sqlite3 matplotlib plotly
 
 ## Example Output
 - Line chart of stock prices with 90-day and 180-day moving averages.
+  ![image](https://github.com/user-attachments/assets/191c2189-21f8-4c6c-b46e-875a52971fc0)
+
 - Bar chart of trading volume with 30-day moving average.
+![image](https://github.com/user-attachments/assets/d1493d69-515f-44de-a3fd-e2bdd7aa3b05)
 
 ## Notes
 - Ensure an active internet connection for fetching stock data.
